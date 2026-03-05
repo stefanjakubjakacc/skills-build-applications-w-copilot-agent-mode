@@ -2,6 +2,28 @@
   text-align: center;
 }
 
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.table {
+  font-size: 1.05rem;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.btn {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
