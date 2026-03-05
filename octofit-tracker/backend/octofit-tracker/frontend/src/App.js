@@ -1,5 +1,5 @@
 
-import logo from '../public/octofitapp-small.png';
+
 
 function App() {
   return (
