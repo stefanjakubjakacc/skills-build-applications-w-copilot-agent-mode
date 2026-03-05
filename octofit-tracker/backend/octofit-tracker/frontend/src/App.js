@@ -1,5 +1,6 @@
 
-
+import logo from '../public/octofitapp-small.png';
+import { Router, Routes, Route, Link } from 'react-router-dom';
 
 function App() {
   return (
